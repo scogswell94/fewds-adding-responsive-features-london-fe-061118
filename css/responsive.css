@@ -1,0 +1,26 @@
+.wrapper {
+  width: 960px;
+}
+ 
+@media only screen and (max-width: 980px) {
+  .wrapper { width: 90%; }
+}
+
+#social {
+  position:absolute;
+  width: auto;
+}
+
+@media only screen and (max-width: 980px) {
+  body { font-size:85%;}
+}
+
+#logo h1 {
+  height:35px;
+  width:35px;
+}
+
+
+#logo h2 {
+ font-size: 2.2em;
+}
