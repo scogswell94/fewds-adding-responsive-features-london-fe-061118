@@ -36,6 +36,20 @@
   font-size:  0.9em;
 }
 
+.col-1 {
+  float: none;
+  width: 100%;
+}
 
+.col-2 {
+  float: none;
+  width: 100%;
+}
+
+.col-3 {
+  float: none;
+  width: 100%;
+  column-count: 3;
+}
 
 
