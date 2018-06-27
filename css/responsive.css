@@ -17,35 +17,28 @@
   #logo h1 {
   height:35px;
   width:35px;
-}
-#logo h2 {
+ }
+ #logo h2 {
  font-size: 2.2em;
 }
 #navbar nav a {
   font-size:  0.9em;
 }
 
-
 }
 
 
 @media only screen and (max-width: 750px) {
  #navbar nav a {
-  font-size:  0.9em;
+  font-size:  0.9em; 
+   
+ }
   
-  .col-1 , .col-2 , .col-3  {
+  .col-1, .col-2, .col-3 {
   float: none;
   width: 100%;
   margin-left: 0;
 }
-
-.col-2 {
-  float: none;
-  width: 100%;
-  margin-left: 0;
-}
-
-
 
 .col-3 p {
   column-count: 1;
@@ -58,6 +51,7 @@
 #details div {
   height: auto;
 }
+
 }
 
 
